@@ -69,6 +69,6 @@
 
 •	Καλώδια Κροκοδειλάκια 10τεμ  -  7€
 
-ΤΟ ΕΡΓΟ ΔΗΜΟΣΙΕΥΤΗΚΕ ΚΑΙ ΣΤΗ ΣΕΛΙΔΑ: https://openedtech.ellak.gr/robotics2023/ptisi-sos/?preview_id=10558&preview_nonce=2db5299c3d&_thumbnail_id=-1&preview=true
+ΤΟ ΕΡΓΟ ΔΗΜΟΣΙΕΥΤΗΚΕ ΚΑΙ ΣΤΗ ΣΕΛΙΔΑ: https://openedtech.ellak.gr/robotics2023/ptisi-sos/
 
 
